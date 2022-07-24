@@ -1,0 +1,16 @@
+D:\Алина\C#\задачки\Hoare Quick Sort\bin\Debug\net5.0\Hoare Quick Sort.exe
+D:\Алина\C#\задачки\Hoare Quick Sort\bin\Debug\net5.0\Hoare Quick Sort.deps.json
+D:\Алина\C#\задачки\Hoare Quick Sort\bin\Debug\net5.0\Hoare Quick Sort.runtimeconfig.json
+D:\Алина\C#\задачки\Hoare Quick Sort\bin\Debug\net5.0\Hoare Quick Sort.runtimeconfig.dev.json
+D:\Алина\C#\задачки\Hoare Quick Sort\bin\Debug\net5.0\Hoare Quick Sort.dll
+D:\Алина\C#\задачки\Hoare Quick Sort\bin\Debug\net5.0\Hoare Quick Sort.pdb
+D:\Алина\C#\задачки\Hoare Quick Sort\obj\Debug\net5.0\Hoare Quick Sort.csproj.AssemblyReference.cache
+D:\Алина\C#\задачки\Hoare Quick Sort\obj\Debug\net5.0\Hoare Quick Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Алина\C#\задачки\Hoare Quick Sort\obj\Debug\net5.0\Hoare Quick Sort.AssemblyInfoInputs.cache
+D:\Алина\C#\задачки\Hoare Quick Sort\obj\Debug\net5.0\Hoare Quick Sort.AssemblyInfo.cs
+D:\Алина\C#\задачки\Hoare Quick Sort\obj\Debug\net5.0\Hoare Quick Sort.csproj.CoreCompileInputs.cache
+D:\Алина\C#\задачки\Hoare Quick Sort\obj\Debug\net5.0\Hoare Quick Sort.dll
+D:\Алина\C#\задачки\Hoare Quick Sort\obj\Debug\net5.0\refint\Hoare Quick Sort.dll
+D:\Алина\C#\задачки\Hoare Quick Sort\obj\Debug\net5.0\Hoare Quick Sort.pdb
+D:\Алина\C#\задачки\Hoare Quick Sort\obj\Debug\net5.0\Hoare Quick Sort.genruntimeconfig.cache
+D:\Алина\C#\задачки\Hoare Quick Sort\obj\Debug\net5.0\ref\Hoare Quick Sort.dll
