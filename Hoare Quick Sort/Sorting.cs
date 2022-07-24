@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -53,38 +53,24 @@ namespace Hoare_Quick_Sort
                     }
                     else
                     {
-                        stacks.N_op += 5;
+                        stacks.N_op += 4;
                         //меняем pivot и item элементы местами
                         stacks.item = stacks.intermediateStack.Pop();
                         stacks.sortableStack.Push(stacks.pivot);
-                        while (stacks.intermediateStack.Count > 0)
-                        {
-                            stacks.N_op += 6;
-                            stacks.sortableStack.Push(stacks.intermediateStack.Pop());
-                            stacks.count++;
-                        }
                         stacks.pivot = stacks.item;
-
-                        //перемещаем непроверенные элементы во временный стек, чтобы закончить проверку
-                        for (int i = 0; i < stacks.count; i++)
-                        {
-                            stacks.N_op += 5;
-                            stacks.intermediateStack.Push(stacks.sortableStack.Pop());
-                        }
-                        stacks.count = 0;
                     }
                 }
                 //помещаем самый большой текущий элемент в отсортированный стек
                 stacks.sortedStack.Push(stacks.pivot);
             }
 
-            return stacks.N_op;
-
             /*Console.Write("\nsortedStack: ");
             while(stacks.sortedStack.Count > 0)
             {
                 Console.Write(stacks.sortedStack.Pop() + " ");
             }*/
+
+            return stacks.N_op;
         }
     }
 }
